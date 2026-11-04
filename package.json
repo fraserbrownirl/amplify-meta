@@ -1,0 +1,14 @@
+{
+  "name": "amplify-meta",
+  "version": "0.1.0",
+  "description": "Muse Spark reference ranking + Muse Image headshot generation — the Amplify avatar pipeline as a runnable demo.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "demo": "node demo.mjs",
+    "dry-run": "node demo.mjs --dry-run"
+  },
+  "license": "MIT"
+}
